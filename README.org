@@ -1,0 +1,3 @@
+# cntest
+
+[[https://github.com/cargo2nix/cargo2nix/tree/release-0.11.0?tab=readme-ov-file][cargo2nix]] test/template with dev tools.
